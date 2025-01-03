@@ -12,7 +12,7 @@ This repository contains Terraform configurations for setting up an EC2 instance
 ## Project Details
 
 - *EC2 Instance*: 
-  - AMI: Amazon windowa10
+  - AMI: Amazon windows 10
   - Instance Type: t3.micro
   - Security Group: `EC2-ELB-portfolio`
 
